@@ -1,5 +1,4 @@
 #EXTM3U 
-url-tvg="http://dusktill.masuk.web.id/epg.xml" x-tvg-url="http://dusktill.masuk.web.id/epg.xml"
  
 #EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/06/ALHIDATV.png" ,ALHIDAMART
 https://files.forumesia.com/wp-content/uploads/2021/01/alhidamart.mp4
